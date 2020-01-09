@@ -1,3 +1,3 @@
 # test
 
-![](render_typo.png =250x250)
+![](render_typo.png)
